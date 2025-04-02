@@ -7,7 +7,9 @@ body{
     color: FFD700;
     background-color: lightslategrey;
 }
-li{
-    color: FFD700;
+ul{
     list-style-type: symbols(♪);
+}
+a{
+    color: FFD700;
 }
