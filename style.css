@@ -4,14 +4,24 @@ img{
     object-fit: contain;
 }
 body{
-    background-color: lightslategrey;
+    background-color: #2E2E2E;
 }
 ul{
     list-style-type: square;
+    color: white;
 }
 a{
     color: white;
 }
 p{
+    color: white;
+}
+h3{
+    color: white;
+}
+h2{
+    color: white;
+}
+h1{
     color: white;
 }
