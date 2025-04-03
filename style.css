@@ -4,12 +4,14 @@ img{
     object-fit: contain;
 }
 body{
-    color: FFD700;
     background-color: lightslategrey;
 }
 ul{
-    list-style-type: symbols(♪);
+    list-style-type: square;
 }
 a{
+    color: FFD700;
+}
+p{
     color: FFD700;
 }
