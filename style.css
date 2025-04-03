@@ -3,12 +3,13 @@ img{
     height: 100px;
     object-fit: contain;
 }
-h1{
-    color: brown;
-}
-p{
-    color: darkblue;
-}
 body{
+    color: FFD700;
     background-color: lightslategrey;
+}
+ul{
+    list-style-type: symbols(♪);
+}
+a{
+    color: FFD700;
 }
